@@ -1,0 +1,15 @@
+
+body {
+	
+	font-weight: bold
+}
+
+.msg {
+	width: 800px;
+	font-size: 48px;
+	background: #888855;
+}
+
+.t1 {
+	color: red;
+}
